@@ -1,0 +1,12 @@
+li {
+	list-style-type: none;
+}
+
+ul {
+	text-align: center;
+	font-size: 40px;
+}
+
+ul>li:nth-child(odd){
+    font-weight:bold;
+}​
